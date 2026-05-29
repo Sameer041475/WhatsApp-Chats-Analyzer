@@ -1,6 +1,0 @@
-app.py
-helper.py
-preprocessor.py
-requirements.txt
-.gitignore
-README.md
